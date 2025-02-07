@@ -37,7 +37,14 @@
         "addDate": 1718526802202,
         "title": "LobeChat",
         "icon": "https://lobehub.com/icon-512x512.png",
-        "url": "https://www-al.u370375.nyat.app:54544/"
+        "url": "https://lobe-chat-omega-lime.vercel.app/"
+      },
+       {
+        "type": "link",
+        "addDate": 1718526802202,
+        "title": "NextWeb",
+        "icon": "https://avatars.githubusercontent.com/u/153288546?s=280&v=4",
+        "url": "https://next-chat-dusky-one.vercel.app/"
       },
       {
         "type": "folder",
