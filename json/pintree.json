@@ -46,6 +46,13 @@
         "icon": "https://avatars.githubusercontent.com/u/153288546?s=280&v=4",
         "url": "https://next-chat-dusky-one.vercel.app/"
       },
+       {
+        "type": "link",
+        "addDate": 1718526802202,
+        "title": "百度网盘",
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_kWBTkfUyNggdNvLp9nLbJAnRAfFbIcnjDw&s",
+        "url": "https://media-i.u370375.nyat.app:21604/"
+      },
       {
         "type": "folder",
         "addDate": 1718526865665,
